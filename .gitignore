@@ -1,0 +1,12 @@
+yolov3.weights
+*.weights
+.DS_Store
+e100lab/input/
+*.jpg
+*.jpeg
+
+
+
+
+
+
